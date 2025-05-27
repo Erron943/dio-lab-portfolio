@@ -10,7 +10,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24)
 
 ## Objetivo
-Construir seu Primeiro Portfólio Front-end do Zero.
+Construir seu Primeiro Portfólio Front-end do Zero (kinda asking too much from a guy with 0 background in programming, isn't it?)
 
 ## Tecnologias
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
